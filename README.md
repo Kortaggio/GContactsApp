@@ -1,3 +1,3 @@
-# Google Contacts
+# GContactsApp
 
-Google Contacts "super bookmark" for Google Chrome
+A "super bookmark" for Google Chrome that redirects you to Google Contacts
